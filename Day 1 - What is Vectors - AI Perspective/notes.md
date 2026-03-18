@@ -419,26 +419,3 @@ Complete the following:
 3️⃣ Write answers to the **reflection questions**
 
 This should take **~1 hour**.
-
----
-
-# After You Finish
-
-Reply with:
-
-```
-Day 1 Completed
-```
-
-Then I will give you **Day 2 — Vector Operations**.
-
-And Day 2 is where the math **starts becoming interesting**, because you will learn the operation that powers:
-
-```
-neural networks
-embeddings
-transformers
-similarity search
-```
-
-(the **dot product**).
