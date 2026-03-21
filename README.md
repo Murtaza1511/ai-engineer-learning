@@ -1,41 +1,73 @@
-# 🚀 My AI Learning Journey
+# 🚀 1 Hour Daily AI Learning Roadmap
 
 Hey 👋
 
-I started this repo because I was learning AI…
-but not really *building anything deeply*.
+If you want to learn AI but feel overwhelmed… this repo is for you.
 
-So I decided to change that.
-
----
-
-# 🧠 What This Is
-
-A simple **day-by-day log** of me learning AI by:
-
-* writing code
-* understanding concepts
-* building small things
-
-No fluff. Just real progress.
-
----
-
-# ⏳ The Rule
+I’m learning AI **from scratch**, spending just:
 
 ```text
 1 hour per day
 ```
 
-That’s it. Consistency > intensity.
+And documenting everything here — day by day.
 
 ---
 
-# 🔁 How I Learn
+# 🧠 What Makes This Different?
+
+Most people:
+
+* watch tutorials
+* take notes
+* forget everything
+
+Here, we:
 
 ```text
 Learn → Code → Build → Repeat
 ```
+
+Every single day.
+
+---
+
+# ⏱ Quick Info
+
+* ⏳ Time: 1 hour/day
+* 📅 Duration: ~1 year
+* 🎯 Goal: Become an AI Engineer
+
+---
+
+# 📅 What You'll Learn
+
+### Week 1–2
+
+* Python for AI
+* Vectors & intuition
+
+### Week 3–4
+
+* NumPy & matrix operations
+
+### Month 2–3
+
+* Neural Networks
+* Gradient Descent
+* Backpropagation
+
+### Month 4–6
+
+* Transformers
+* Attention
+* Build mini GPT
+
+### Beyond
+
+* PyTorch
+* RAG systems
+* AI apps
 
 ---
 
@@ -43,7 +75,7 @@ Learn → Code → Build → Repeat
 
 Each day contains:
 
-* notes (in simple language)
+* simple notes (no jargon)
 * Python code
 * small experiments
 
@@ -51,18 +83,47 @@ Each day contains:
 
 # 🎯 Goal
 
-Not just to *use AI*…
-but to **actually build it**.
+Not just to *understand AI*…
+but to **actually build it from scratch**
 
 ---
 
-# 🤝 If You’re Learning Too
+# 🤝 Who This Is For
 
-Feel free to:
+* Developers starting AI
+* People stuck in tutorial hell
+* Anyone who wants a **clear daily roadmap**
 
-* follow along
-* try the code
-* improve things
+---
+
+# 🚀 How to Use This
+
+* Follow day by day
+* Run the code
+* Modify things
+* Break stuff → learn more
+
+---
+
+# 💭 Honest Note
+
+I’m not an expert.
+
+This repo includes:
+
+* mistakes
+* confusion
+* learning
+
+That’s the real process.
+
+---
+
+# ⭐ If This Helps You
+
+* Star the repo
+* Fork it
+* Follow along
 
 ---
 
