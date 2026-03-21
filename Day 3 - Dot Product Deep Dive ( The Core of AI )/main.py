@@ -1,3 +1,11 @@
+# Install numpy if you haven't already:
+# pip install numpy
+
+# Or better yet, use a virtual environment to manage your dependencies:
+# python -m venv venv
+# source venv/bin/activate  # On Windows: venv\Scripts\activate
+# pip install numpy
+
 import numpy as np
 
 # Similar Vectors
